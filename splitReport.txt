@@ -1,0 +1,18 @@
+Found 16 classes
+
+Aloe Vera Disease: total=69 train=48 val=10 test=11
+Aloe Vera Dried: total=61 train=43 val=9 test=9
+Aloe Vera Mature Healthy: total=59 train=41 val=9 test=9
+Aloe Vera Young Healthy: total=57 train=40 val=9 test=8
+Azadirachta Indica Chlorotic: total=119 train=83 val=18 test=18
+Azadirachta Indica Disease: total=124 train=87 val=19 test=18
+Azadirachta Indica Healthy: total=153 train=107 val=23 test=23
+Hibiscus Rosa Sinensis Chlorotic: total=75 train=52 val=11 test=12
+Hibiscus Rosa Sinensis Disease: total=65 train=46 val=10 test=9
+Hibiscus Rosa Sinensis Healthy: total=71 train=50 val=11 test=10
+Kalanchoe Pinnata Chlorotic: total=59 train=41 val=9 test=9
+Kalanchoe Pinnata Disease: total=73 train=51 val=11 test=11
+Kalanchoe Pinnata Healthy: total=52 train=36 val=8 test=8
+Piper Betle Chlorotic: total=109 train=76 val=16 test=17
+Piper Betle Disease: total=95 train=66 val=14 test=15
+Piper Betle Healthy: total=82 train=57 val=12 test=13
