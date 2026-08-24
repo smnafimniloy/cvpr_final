@@ -1,0 +1,20 @@
+,precision,recall,f1-score,support
+Aloe Vera Disease,1.0,1.0,1.0,11.0
+Aloe Vera Dried,1.0,1.0,1.0,9.0
+Aloe Vera Mature Healthy,1.0,1.0,1.0,9.0
+Aloe Vera Young Healthy,1.0,1.0,1.0,8.0
+Azadirachta Indica Chlorotic,0.8,0.8889,0.8421,18.0
+Azadirachta Indica Disease,0.8667,0.7222,0.7879,18.0
+Azadirachta Indica Healthy,0.92,1.0,0.9583,23.0
+Hibiscus Rosa Sinensis Chlorotic,1.0,1.0,1.0,12.0
+Hibiscus Rosa Sinensis Disease,1.0,0.4444,0.6154,9.0
+Hibiscus Rosa Sinensis Healthy,0.8333,1.0,0.9091,10.0
+Kalanchoe Pinnata Chlorotic,0.8182,1.0,0.9,9.0
+Kalanchoe Pinnata Disease,0.8,0.7273,0.7619,11.0
+Kalanchoe Pinnata Healthy,0.8889,1.0,0.9412,8.0
+Piper Betle Chlorotic,1.0,0.9412,0.9697,17.0
+Piper Betle Disease,0.9375,1.0,0.9677,15.0
+Piper Betle Healthy,1.0,1.0,1.0,13.0
+accuracy,0.92,0.92,0.92,0.92
+macro avg,0.929,0.9203,0.9158,200.0
+weighted avg,0.9242,0.92,0.9151,200.0
