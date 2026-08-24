@@ -1,0 +1,17 @@
+true_class,correct_predictions,total_samples,most_confused_with,confused_count
+Aloe Vera Disease,11,11,None (perfect),0
+Aloe Vera Dried,9,9,None (perfect),0
+Aloe Vera Mature Healthy,9,9,None (perfect),0
+Aloe Vera Young Healthy,8,8,None (perfect),0
+Azadirachta Indica Chlorotic,15,18,Azadirachta Indica Disease,3
+Azadirachta Indica Disease,14,18,Azadirachta Indica Chlorotic,3
+Azadirachta Indica Healthy,22,23,Azadirachta Indica Disease,1
+Hibiscus Rosa Sinensis Chlorotic,12,12,None (perfect),0
+Hibiscus Rosa Sinensis Disease,4,9,Hibiscus Rosa Sinensis Healthy,2
+Hibiscus Rosa Sinensis Healthy,10,10,None (perfect),0
+Kalanchoe Pinnata Chlorotic,9,9,None (perfect),0
+Kalanchoe Pinnata Disease,9,11,Kalanchoe Pinnata Chlorotic,1
+Kalanchoe Pinnata Healthy,8,8,None (perfect),0
+Piper Betle Chlorotic,17,17,None (perfect),0
+Piper Betle Disease,14,15,Piper Betle Chlorotic,1
+Piper Betle Healthy,13,13,None (perfect),0
