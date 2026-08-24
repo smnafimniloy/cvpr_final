@@ -1,0 +1,13 @@
+{
+  "model": "mobilenet_v3_small",
+  "train_mode": "classifier_only",
+  "test_accuracy": 0.845,
+  "test_macro_f1": 0.8512619382036951,
+  "test_precision": 0.8571733860431883,
+  "test_recall": 0.854897859049873,
+  "total_params": 1534256,
+  "trainable_params": 607248,
+  "model_size_mb": 5.853,
+  "inference_ms_per_image": 0.155,
+  "best_val_macro_f1": 0.8072868828234203
+}
