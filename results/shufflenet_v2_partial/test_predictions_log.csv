@@ -1,0 +1,201 @@
+image_path,true_class,predicted_class,confidence,correct
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141302.png,Aloe Vera Disease,Aloe Vera Disease,0.9837,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141336.png,Aloe Vera Disease,Aloe Vera Disease,0.9201,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141527.png,Aloe Vera Disease,Aloe Vera Disease,0.9998,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141552.png,Aloe Vera Disease,Aloe Vera Disease,0.9913,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141911.png,Aloe Vera Disease,Aloe Vera Disease,0.9991,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141916.png,Aloe Vera Disease,Aloe Vera Disease,0.9462,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141939.png,Aloe Vera Disease,Aloe Vera Disease,0.9753,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204141956.png,Aloe Vera Disease,Aloe Vera Disease,0.9974,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204142001.png,Aloe Vera Disease,Aloe Vera Disease,0.9628,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204142608.png,Aloe Vera Disease,Aloe Vera Disease,0.9968,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Disease/IMG20260204142622.png,Aloe Vera Disease,Aloe Vera Disease,0.9973,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204143917.png,Aloe Vera Dried,Aloe Vera Dried,0.9848,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204143953.png,Aloe Vera Dried,Aloe Vera Dried,0.9633,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144045.png,Aloe Vera Dried,Aloe Vera Dried,0.9575,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144125.png,Aloe Vera Dried,Kalanchoe Pinnata Disease,0.6992,False
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144305.png,Aloe Vera Dried,Aloe Vera Dried,0.9741,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144317.png,Aloe Vera Dried,Aloe Vera Dried,0.9515,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144358.png,Aloe Vera Dried,Aloe Vera Dried,0.8836,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144804.png,Aloe Vera Dried,Aloe Vera Dried,0.9815,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Dried/IMG20260204144835.png,Aloe Vera Dried,Aloe Vera Dried,0.9459,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204142804.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9998,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204142825.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9997,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204142847.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9006,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204142901.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9999,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204142948.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9977,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204143255.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9908,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204143416.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9999,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204143447.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9857,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Mature Healthy/IMG20260204143716.png,Aloe Vera Mature Healthy,Aloe Vera Mature Healthy,0.9926,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204134920.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.9948,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204135127.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.9925,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204135156.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.9736,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204135303.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.9625,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204135335.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.8586,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204140036.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.9977,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204140238.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.9671,True
+Medicinal Plant Leaf Health Split Dataset/test/Aloe Vera Young Healthy/IMG20260204140257.png,Aloe Vera Young Healthy,Aloe Vera Young Healthy,0.7798,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135234.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.6648,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135527.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.6615,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135533.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.7672,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135607.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.8703,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135659.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.7887,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135741.png,Azadirachta Indica Chlorotic,Azadirachta Indica Disease,0.5374,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135806.png,Azadirachta Indica Chlorotic,Azadirachta Indica Disease,0.7965,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135840.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.9051,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135908.png,Azadirachta Indica Chlorotic,Azadirachta Indica Disease,0.7612,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135918.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.8372,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135942.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.9287,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135950.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.9108,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135954.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.7867,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107135959.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.4873,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107140010.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.4605,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107140036.png,Azadirachta Indica Chlorotic,Azadirachta Indica Disease,0.645,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107140442.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.653,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Chlorotic/IMG20260107140609.png,Azadirachta Indica Chlorotic,Azadirachta Indica Chlorotic,0.6482,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107132422.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.7902,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107132510.png,Azadirachta Indica Disease,Azadirachta Indica Healthy,0.6961,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107132520.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.9373,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107132558.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.6374,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107132908.png,Azadirachta Indica Disease,Azadirachta Indica Chlorotic,0.7955,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133109.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.6965,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133128.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.967,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133141.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.975,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133448.png,Azadirachta Indica Disease,Azadirachta Indica Healthy,0.6384,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133716.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.9734,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133831.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.8029,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133945.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.9793,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107133959.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.9708,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107134049.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.946,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107134057.png,Azadirachta Indica Disease,Azadirachta Indica Healthy,0.3342,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107134126.png,Azadirachta Indica Disease,Azadirachta Indica Chlorotic,0.669,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107134146.png,Azadirachta Indica Disease,Azadirachta Indica Disease,0.9774,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Disease/IMG20260107134218.png,Azadirachta Indica Disease,Azadirachta Indica Chlorotic,0.8845,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107140811.png,Azadirachta Indica Healthy,Azadirachta Indica Chlorotic,0.3618,False
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107140821.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9649,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107140833.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.8534,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107140838.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.5603,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107140924.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9551,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107140929.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9484,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107141007.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9528,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107141011.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9726,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107141050.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.7652,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107141155.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.8227,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107141446.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9525,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107141612.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9376,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142348.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.998,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142424.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9671,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142439.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.946,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142505.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9853,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142515.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.8442,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142613.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.7933,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142649.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9941,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142754.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9722,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142904.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9689,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107142943.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9871,True
+Medicinal Plant Leaf Health Split Dataset/test/Azadirachta Indica Healthy/IMG20260107143009.png,Azadirachta Indica Healthy,Azadirachta Indica Healthy,0.9727,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205151527.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9984,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205151634.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9803,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205151658.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.997,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205151705.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9917,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205151826.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9891,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152223.png,Hibiscus Rosa Sinensis Chlorotic,Kalanchoe Pinnata Chlorotic,0.4738,False
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152626.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9972,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152632.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9968,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152637.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9891,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152642.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9732,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152657.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.9905,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Chlorotic/IMG20260205152814.png,Hibiscus Rosa Sinensis Chlorotic,Hibiscus Rosa Sinensis Chlorotic,0.976,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205141707.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Disease,0.9306,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205141825.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Disease,0.6545,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205141840.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Healthy,0.8066,False
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205141919.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Disease,0.874,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205141941.png,Hibiscus Rosa Sinensis Disease,Kalanchoe Pinnata Disease,0.4091,False
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205142013.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Disease,0.7109,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205142402.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Disease,0.8736,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205142620.png,Hibiscus Rosa Sinensis Disease,Kalanchoe Pinnata Disease,0.9769,False
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Disease/IMG20260205142625.png,Hibiscus Rosa Sinensis Disease,Hibiscus Rosa Sinensis Disease,0.9057,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205134803.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9943,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205134857.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.926,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205135225.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9917,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205135436.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9979,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205135929.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9965,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205140003.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9895,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205140924.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9792,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205141003.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.927,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205141054.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9925,True
+Medicinal Plant Leaf Health Split Dataset/test/Hibiscus Rosa Sinensis Healthy/IMG20260205141107.png,Hibiscus Rosa Sinensis Healthy,Hibiscus Rosa Sinensis Healthy,0.9935,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114181751.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9889,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114181816.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.6859,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114181828.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Disease,0.5702,False
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114182136.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9451,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114182448.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9913,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114182458.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9871,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114182505.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9835,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114182649.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9914,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Chlorotic/IMG20260114182751.png,Kalanchoe Pinnata Chlorotic,Kalanchoe Pinnata Chlorotic,0.9117,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260114182033.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Chlorotic,0.9497,False
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260114185959.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.8619,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227135710.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Healthy,0.9804,False
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227135851.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.9982,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227135911.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.7813,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227135922.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.9902,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227140347.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.999,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227140702.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.832,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227140747.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.849,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227140812.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.9998,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Disease/IMG20260227140819.png,Kalanchoe Pinnata Disease,Kalanchoe Pinnata Disease,0.9967,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185356.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.9956,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185409.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.9929,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185415.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.996,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185606.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.9911,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185714.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.9957,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185803.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.987,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185827.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.9972,True
+Medicinal Plant Leaf Health Split Dataset/test/Kalanchoe Pinnata Healthy/IMG20260114185949.png,Kalanchoe Pinnata Healthy,Kalanchoe Pinnata Healthy,0.9824,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195206.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9991,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195414.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9884,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195429.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9874,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195445.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9967,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195545.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9942,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195557.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.997,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195646.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9996,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195705.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9882,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195755.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9997,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195914.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9993,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208195945.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9993,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208200641.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9991,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208201358.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9928,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208201437.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9945,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208201950.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9951,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208202011.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.9986,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Chlorotic/IMG20260208202017.png,Piper Betle Chlorotic,Piper Betle Chlorotic,0.7732,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207202513.png,Piper Betle Disease,Piper Betle Disease,0.9922,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203045.png,Piper Betle Disease,Piper Betle Disease,0.9964,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203308.png,Piper Betle Disease,Piper Betle Disease,0.9946,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203328.png,Piper Betle Disease,Piper Betle Disease,0.9772,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203408.png,Piper Betle Disease,Piper Betle Disease,0.859,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203621.png,Piper Betle Disease,Piper Betle Disease,0.9717,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203642.png,Piper Betle Disease,Piper Betle Disease,0.993,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203656.png,Piper Betle Disease,Piper Betle Disease,0.9987,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207203927.png,Piper Betle Disease,Piper Betle Disease,0.995,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207205017.png,Piper Betle Disease,Piper Betle Disease,0.9958,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207205148.png,Piper Betle Disease,Piper Betle Disease,0.9978,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207205158.png,Piper Betle Disease,Piper Betle Disease,0.9991,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207205258.png,Piper Betle Disease,Piper Betle Disease,0.9006,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207205306.png,Piper Betle Disease,Piper Betle Disease,0.9939,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Disease/IMG20260207205333.png,Piper Betle Disease,Piper Betle Disease,0.9919,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0619.png,Piper Betle Healthy,Piper Betle Healthy,0.9541,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0633.png,Piper Betle Healthy,Piper Betle Healthy,0.9949,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0637.png,Piper Betle Healthy,Piper Betle Healthy,0.9857,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0638.png,Piper Betle Healthy,Piper Betle Healthy,0.9932,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0639.png,Piper Betle Healthy,Piper Betle Healthy,0.988,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0640.png,Piper Betle Healthy,Piper Betle Healthy,0.98,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0641.png,Piper Betle Healthy,Piper Betle Healthy,0.9896,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0642.png,Piper Betle Healthy,Piper Betle Healthy,0.997,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0650.png,Piper Betle Healthy,Piper Betle Healthy,0.9749,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0653.png,Piper Betle Healthy,Piper Betle Healthy,0.9824,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0657.png,Piper Betle Healthy,Piper Betle Healthy,0.5468,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0666.png,Piper Betle Healthy,Piper Betle Healthy,0.9814,True
+Medicinal Plant Leaf Health Split Dataset/test/Piper Betle Healthy/IMG_0676.png,Piper Betle Healthy,Piper Betle Healthy,0.9425,True

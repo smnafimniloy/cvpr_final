@@ -1,0 +1,13 @@
+{
+  "model": "shufflenet_v2",
+  "train_mode": "partial",
+  "test_accuracy": 0.905,
+  "test_macro_f1": 0.9114804808269609,
+  "test_precision": 0.9186290792540792,
+  "test_recall": 0.9112661945542381,
+  "total_params": 1270004,
+  "trainable_params": 994936,
+  "model_size_mb": 4.845,
+  "inference_ms_per_image": 0.185,
+  "best_val_macro_f1": 0.9122758318070818
+}

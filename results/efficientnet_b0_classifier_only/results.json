@@ -1,0 +1,13 @@
+{
+  "model": "efficientnet_b0",
+  "train_mode": "classifier_only",
+  "test_accuracy": 0.875,
+  "test_macro_f1": 0.88432950688684,
+  "test_precision": 0.9008040608244412,
+  "test_recall": 0.8857143762035066,
+  "total_params": 4028044,
+  "trainable_params": 20496,
+  "model_size_mb": 15.366,
+  "inference_ms_per_image": 0.404,
+  "best_val_macro_f1": 0.8797591137341854
+}

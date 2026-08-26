@@ -1,0 +1,13 @@
+{
+  "model": "wider_cnn",
+  "train_mode": "weighted_loss_ablation",
+  "test_accuracy": 0.84,
+  "test_macro_f1": 0.7998558711961535,
+  "test_precision": 0.8139448051948053,
+  "test_recall": 0.8325441919191919,
+  "total_params": 375824,
+  "trainable_params": 375824,
+  "model_size_mb": 1.434,
+  "inference_ms_per_image": 0.016,
+  "best_val_macro_f1": 0.8022938689492481
+}

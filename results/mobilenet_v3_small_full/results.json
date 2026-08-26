@@ -8,6 +8,6 @@
   "total_params": 1534256,
   "trainable_params": 1534256,
   "model_size_mb": 5.853,
-  "inference_ms_per_image": 0.15,
+  "inference_ms_per_image": 0.464,
   "best_val_macro_f1": 0.9092999138622708
 }
