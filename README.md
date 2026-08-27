@@ -158,4 +158,4 @@ If this work is published as a paper, please cite instead:
 ```
 [Author(s)]. "[Paper Title]." [Venue/Conference], [Year]. [DOI/URL when available]
 ```
-*(Update this citation block once the associated paper is published.)*
+*(This citation block will be updated once the associated paper is published.)*
