@@ -132,12 +132,16 @@ Input (3×128×128)
 
 ## Hardware
 
-Trained and evaluated on an NVIDIA GeForce RTX 3050 (8GB VRAM).
+Trained and evaluated on:
+
+CPU: Intel Core i5-10400
+RAM: 16 GB DDR4 @ 2666MHz
+GPU: NVIDIA GeForce RTX 3050 (8GB VRAM)
 
 ## License
 
 Dataset: CC BY 4.0 ([Mendeley Data](https://data.mendeley.com/datasets/89rfgtxbdc/1)).
-Code: add your preferred license here (e.g., MIT).
+Code: MIT License
 
 ## Citation
 
