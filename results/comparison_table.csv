@@ -1,0 +1,15 @@
+model,train_mode,test_accuracy,test_macro_f1,test_precision,test_recall,total_params,trainable_params,model_size_mb,gflops,inference_ms_per_image
+efficientnet_b0,full,0.92,0.9197,0.932,0.9227,4028044,4028044,15.366,0.2712,0.367
+shufflenet_v2,full,0.92,0.9158,0.929,0.9203,1270004,1270004,4.845,0.0991,0.18
+shufflenet_v2,partial,0.905,0.9115,0.9186,0.9113,1270004,994936,4.845,0.0991,0.185
+mobilenet_v3_small,full,0.885,0.8845,0.8917,0.8872,1534256,1534256,5.853,0.0416,0.464
+efficientnet_b0,classifier_only,0.875,0.8843,0.9008,0.8857,4028044,20496,15.366,0.2712,0.404
+mobilenet_v3_small,partial,0.86,0.8579,0.8692,0.8615,1534256,957792,5.853,0.0416,0.149
+efficientnet_b0,partial,0.87,0.857,0.8706,0.8643,4028044,1149888,15.366,0.2712,0.407
+shufflenet_v2,classifier_only,0.86,0.8527,0.8787,0.8596,1270004,16400,4.845,0.0991,0.209
+mobilenet_v3_small,classifier_only,0.845,0.8513,0.8572,0.8549,1534256,607248,5.853,0.0416,0.155
+custom_cnn,full_RANDOMSPLIT_ablation,0.8473,0.8442,0.8468,0.8483,95760,95760,0.365,0.3377,0.018
+wider_cnn,weighted_loss_ablation,0.84,0.7999,0.8139,0.8325,375824,375824,1.434,1.2794,0.016
+custom_cnn,full,0.81,0.7637,0.7974,0.8021,95760,95760,0.365,0.3377,0.017
+custom_cnn,weighted_loss_ablation,0.795,0.7458,0.7789,0.7841,95760,95760,0.365,0.3377,0.016
+custom_cnn,unweighted_loss_ablation,0.695,0.6161,0.6793,0.6424,95760,95760,0.365,0.3377,0.016

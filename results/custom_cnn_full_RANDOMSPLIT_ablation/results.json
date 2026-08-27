@@ -1,0 +1,13 @@
+{
+  "model": "custom_cnn",
+  "train_mode": "full_RANDOMSPLIT_ablation",
+  "test_accuracy": 0.8473076923076923,
+  "test_macro_f1": 0.8442099267094829,
+  "test_precision": 0.8468188067784611,
+  "test_recall": 0.8483454613650925,
+  "total_params": 95760,
+  "trainable_params": 95760,
+  "model_size_mb": 0.365,
+  "inference_ms_per_image": 0.018,
+  "best_val_macro_f1": 0.8435555943559034
+}

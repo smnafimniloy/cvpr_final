@@ -1,0 +1,12 @@
+{
+  "model": "ensemble_efficientnet_b0_full_shufflenet_v2_full_shufflenet_v2_partial_mobilenet_v3_small_full",
+  "train_mode": "weighted_average_ensemble",
+  "test_accuracy": 0.935,
+  "test_macro_f1": 0.93779755814397,
+  "test_precision": 0.9428503787878788,
+  "test_recall": 0.939330808080808,
+  "total_params": 8102308,
+  "trainable_params": 8102308,
+  "model_size_mb": 30.908,
+  "inference_ms_per_image": null
+}
